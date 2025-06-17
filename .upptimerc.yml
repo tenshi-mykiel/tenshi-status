@@ -4,7 +4,7 @@ repo: tenshi-status # The name of this repository
 
 sites:
   - name: Lima
-    url: https://lima.stork-banjo.ts.net/
+    url: $LIMA
 #  - name: Sierra
 #    url: https://sierra.stork-banjo.ts.net/
 
@@ -13,14 +13,16 @@ status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   # cname: demo.upptime.js.org
-  # baseUrl: /your-repo-name
+  baseUrl: /tenshi-status
   logoUrl: https://raw.githubusercontent.com/tenshi-mykiel/tenshi-status/refs/heads/master/favicon.ico
+  facivon: https://raw.githubusercontent.com/tenshi-mykiel/tenshi-status/refs/heads/master/favicon.ico
+  robotsText: "User-agent: * \n Disallow: /"
   name: Tenshi Status
   introTitle: "Tenshi Status"
   introMessage: How dead are the systems?
   navbar:
     - title: Status
-      href: /
+      href: /tenshi-status
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
 
