@@ -1,8 +1,8 @@
 [
   {
     "name": "Lima",
-    "url": "https://lima.stork-banjo.ts.net/",
-    "icon": "https://icons.duckduckgo.com/ip3/lima.stork-banjo.ts.net.ico",
+    "url": "$LIMA",
+    "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "lima",
     "status": "up",
     "uptime": "100.00%",
@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2163,
-    "timeDay": 2163,
-    "timeWeek": 2163,
-    "timeMonth": 2163,
-    "timeYear": 2163,
+    "time": 1936,
+    "timeDay": 1936,
+    "timeWeek": 1936,
+    "timeMonth": 1936,
+    "timeYear": 1936,
     "dailyMinutesDown": {}
   }
 ]
