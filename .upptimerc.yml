@@ -5,8 +5,8 @@ repo: tenshi-status # The name of this repository
 sites:
   - name: Lima
     url: https://lima.stork-banjo.ts.net/
-  - name: Sierra
-    url: https://sierra.stork-banjo.ts.net/
+#  - name: Sierra
+#    url: https://sierra.stork-banjo.ts.net/
 
 
 status-website:
