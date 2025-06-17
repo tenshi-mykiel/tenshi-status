@@ -16,7 +16,7 @@ status-website:
   # cname: demo.upptime.js.org
   baseUrl: /tenshi-status
   logoUrl: https://raw.githubusercontent.com/tenshi-mykiel/tenshi-status/refs/heads/master/favicon.ico
-  facivon: https://raw.githubusercontent.com/tenshi-mykiel/tenshi-status/refs/heads/master/favicon.ico
+  favicon: https://raw.githubusercontent.com/tenshi-mykiel/tenshi-status/refs/heads/master/favicon.ico
   robotsText: "User-agent: * \n Disallow: /"
   name: Tenshi Status
   introTitle: "Tenshi Status"
@@ -24,8 +24,8 @@ status-website:
   navbar:
     - title: Status
       href: /tenshi-status
-    - title: GitHub
-      href: https://github.com/$OWNER/$REPO
+    # - title: GitHub
+    #   href: https://github.com/$OWNER/$REPO
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
