@@ -10,31 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 716,
-    "timeDay": 716,
-    "timeWeek": 716,
-    "timeMonth": 716,
-    "timeYear": 716,
+    "time": 3037,
+    "timeDay": 3037,
+    "timeWeek": 3037,
+    "timeMonth": 3037,
+    "timeYear": 3037,
     "dailyMinutesDown": {}
-  },
-  {
-    "name": "Sierra",
-    "url": "https://sierra.stork-banjo.ts.net/",
-    "icon": "https://icons.duckduckgo.com/ip3/sierra.stork-banjo.ts.net.ico",
-    "slug": "sierra",
-    "status": "down",
-    "uptime": "0.02%",
-    "uptimeDay": "0.02%",
-    "uptimeWeek": "0.02%",
-    "uptimeMonth": "0.02%",
-    "uptimeYear": "0.02%",
-    "time": 0,
-    "timeDay": 0,
-    "timeWeek": 0,
-    "timeMonth": 0,
-    "timeYear": 0,
-    "dailyMinutesDown": {
-      "2025-06-17": 29
-    }
   }
 ]
