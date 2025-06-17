@@ -1,12 +1,13 @@
 # Change these first
 owner: tenshi-mykiel # Your GitHub organization or username, where this repository lives
 repo: tenshi-status # The name of this repository
+user-agent: tenshi-mykiel
 
 sites:
   - name: Lima
     url: $LIMA
 #  - name: Sierra
-#    url: https://sierra.stork-banjo.ts.net/
+#    url: $SIERRA
 
 
 status-website:
