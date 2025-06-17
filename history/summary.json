@@ -4,20 +4,18 @@
     "url": "https://lima.stork-banjo.ts.net/",
     "icon": "https://icons.duckduckgo.com/ip3/lima.stork-banjo.ts.net.ico",
     "slug": "lima",
-    "status": "down",
-    "uptime": "0.62%",
-    "uptimeDay": "0.62%",
-    "uptimeWeek": "0.62%",
-    "uptimeMonth": "0.62%",
-    "uptimeYear": "0.62%",
-    "time": 0,
-    "timeDay": 0,
-    "timeWeek": 0,
-    "timeMonth": 0,
-    "timeYear": 0,
-    "dailyMinutesDown": {
-      "2025-06-17": 3
-    }
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 744,
+    "timeDay": 744,
+    "timeWeek": 744,
+    "timeMonth": 744,
+    "timeYear": 744,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Sierra",
@@ -25,18 +23,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/sierra.stork-banjo.ts.net.ico",
     "slug": "sierra",
     "status": "down",
-    "uptime": "0.51%",
-    "uptimeDay": "0.51%",
-    "uptimeWeek": "0.51%",
-    "uptimeMonth": "0.51%",
-    "uptimeYear": "0.51%",
+    "uptime": "0.05%",
+    "uptimeDay": "0.05%",
+    "uptimeWeek": "0.05%",
+    "uptimeMonth": "0.05%",
+    "uptimeYear": "0.05%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-06-17": 3
+      "2025-06-17": 20
     }
   }
 ]
