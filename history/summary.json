@@ -4,17 +4,19 @@
     "url": "$LIMA",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "lima",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1209,
-    "timeDay": 561,
-    "timeWeek": 1209,
-    "timeMonth": 1209,
-    "timeYear": 1209,
-    "dailyMinutesDown": {}
+    "status": "up",
+    "uptime": "99.85%",
+    "uptimeDay": "99.60%",
+    "uptimeWeek": "99.85%",
+    "uptimeMonth": "99.85%",
+    "uptimeYear": "99.85%",
+    "time": 1182,
+    "timeDay": 621,
+    "timeWeek": 1182,
+    "timeMonth": 1182,
+    "timeYear": 1182,
+    "dailyMinutesDown": {
+      "2025-06-19": 6
+    }
   }
 ]
