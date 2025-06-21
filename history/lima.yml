@@ -1,7 +1,7 @@
 url: $LIMA
-status: up
-code: 200
-responseTime: 759
-lastUpdated: 2025-06-20T23:13:55.725Z
+status: down
+code: 502
+responseTime: 603
+lastUpdated: 2025-06-21T16:17:42.738Z
 startTime: 2025-06-17T04:14:20.838Z
 generator: Upptime <https://github.com/upptime/upptime>
